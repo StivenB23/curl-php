@@ -1,0 +1,18 @@
+.welcome{
+    width: 90%;
+    height: 100vh;
+}
+.title-welcome{
+    font-size: 90px;
+    font-weight: bold;
+}
+.text-welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 60px;
+    margin-top: 30%;
+}
+.welcome-elements{
+    display: flex;
+}
